@@ -1,1 +1,22 @@
 # rust-learning
+
+- 官方的 rust book https://doc.rust-lang.org/book/title-page.html
+- 官方 rust 死灵书 https://doc.rust-lang.org/nomicon/intro.html
+- 通过例子学 Rust https://rustwiki.org/zh-CN/rust-by-example/index.html
+- 官方 rustlings 小练习 https://rustlings.cool/
+- Rust 语言圣经 https://course.rs/basic/intro.html
+- Google 出的 Rust 教程 https://google.github.io/comprehensive-rust/welcome.html
+- Rust 程序设计语言 https://kaisery.github.io/trpl-zh-cn/title-page.html
+- Rust 原子操作和锁 https://marabos.nl/atomics/
+- Rust 原子和锁—中文翻译 https://atomics.rs/about-book.html
+- Awesome-rust rust 相关资料、第三方库列表 https://github.com/rust-unofficial/awesome-rust
+- Learn Rust Easy 一本中文入门书 [https://rustycab.github.io/LearnRustEasy/](https://security.feishu.cn/link/safety?target=https%3A%2F%2Frustycab.github.io%2FLearnRustEasy%2F&scene=ccm&logParams={"location"%3A"ccm_default"}&lang=zh-CN)
+- 书籍、博客、视频
+  - 《Rust 编程之道》
+  - 《Rust 程序设计·第二版》
+  - 《深入理解 Rust 并发编程》
+  - 《The Rust Programming Language》
+  - 《Rust For Rustaceans》
+  - 《Programming Rust—Fast, Safe Systems Development》
+  - The Week in Rust https://this-week-in-rust.org/
+  - Rust 语言中文社区 https://rustcc.cn/
